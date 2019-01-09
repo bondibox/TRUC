@@ -25,7 +25,7 @@ Just as we curb the growth of the price during capital inflow, we will buffer th
 
 Finally, we inject capital and supply into the exchange at the same time. This dual-sided transaction is neither a buy nor a sell and does not affect the price of TRUC tokens. What it does is it "makes the pie higher." Consistently increasing the capitalization of our trading exchange will slow the rate that the price changes when people buy & sell. Until the entire 10 billion TRUC token supply is fully capitalized, every trade will unduly affect the price.
 
-Over the long term, our monetary intervention will easy as we gradually dilute the supply of tokens on the exchange until all 10 Billion TRUC tokens are in circulation.
+Over the long term, our monetary intervention will ease as we gradually dilute the supply of tokens on the exchange until all 10 Billion TRUC tokens are in circulation.
 
 Although none of these measures is a bullet proof vest for preventing a sell off that affects price, together we hope that they can elevate the quality of the TRUC token and the value it holds.
 
