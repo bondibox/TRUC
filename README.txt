@@ -23,7 +23,7 @@ Every day new capital comes into the TRUC trading exchange when people buy our t
 
 Just as we curb the growth of the price during capital inflow, we will buffer the drop in price when people divest.  Our account keeps a reserve of capital equal to that held on the exchange which is used to support the price of the TRUC token. This TRX is frozen to cast votes for ourselves, while most of it has been frozen for longer than 3 days and is available at any time.
 
-Finally, we inject capital and supply into the exchange at the same time. This dual-sided transaction is neither a buy nor a sell and does not affect the price of TRUC tokens. What it does, as described by President George W. Bush, is it "makes the pie higher." Consistently increasing the capitalization of our trading exchange will slow the rate that the price changes when people buy & sell. Until the entire 10 billion TRUC token supply is fully capitalized, every trade will unduly affect the price.
+Finally, we inject capital and supply into the exchange at the same time. This dual-sided transaction is neither a buy nor a sell and does not affect the price of TRUC tokens. What it does is it "makes the pie higher." Consistently increasing the capitalization of our trading exchange will slow the rate that the price changes when people buy & sell. Until the entire 10 billion TRUC token supply is fully capitalized, every trade will unduly affect the price.
 
 Over the long term, our monetary intervention will easy as we gradually dilute the supply of tokens on the exchange until all 10 Billion TRUC tokens are in circulation.
 
@@ -33,11 +33,11 @@ Although none of these measures is a bullet proof vest for preventing a sell off
 CommunityNode's Solution to "Vote Buying"
 
 
-For some time, the Tron Super Representatives have been concerned about the direction that voter rewards are taking the Tron project. The rewards have an unwanted effect that makes the grassroots node organizations less competitive than self-elected SR's and their consortiums of wealthy voters.
+For some time, the Tron Super Representatives have been concerned about the direction that voter rewards are taking the Tron project. It seems the rewards have an unwanted effect that makes the grassroots node organizations less competitive than self-elected SR's and their consortiums of wealthy voters.
 
 We at Community Node have our own history with vote buying and are perhaps best remembered for terminating our voter rewards program just 2 days into an aggressive vote buying campaign. The problem we ran into was that the voter rewards left no income for actually running the nodes.  
 
-In a series of articles, I laid out the futility of voter rewards and questioned the desire to be a Tron Super Representative. Given the current status of voter rewards, I announced that Community Node would terminate its campaign for Super Representative until a solution that provides a competitive edge could be found.
+In a series of articles, I laid out the futility of voter rewards and questioned the desire to be a Tron Super Representative. Given the current status of voter rewards, I announced that Community Node would terminate our campaign for Super Representative until a solution that provides a competitive edge could be found.
 
 To combat vote buying, one suggestion from the SR's has been to set a limit to how much all Super Representatives can reward voters. Another suggestion has been to completely take away the ability to reward voters. In my opinion, legislative over-engineering is not the path to a solution.
 
@@ -47,9 +47,9 @@ Creating a token that carries additional value is obviously the answer to the vo
 
 There are two rewards that Tron pays with every block produced. We are mostly familiar with the block production reward which is 32 TRX paid to the 27 Super Representatives who take turns producing blocks every 3 seconds. 
 
-The second reward is 16 TRX per block shared by the top 127 SR Candidates based on their percentage of the overall vote. The more votes a candidate receives, the greater their share of the 16 TRX allowance. Our TRUC / TRX exchange is capitalized with our portion of the shared 16 TRX reward that our node earns as a SR candidate. 
+The second reward is 16 TRX per block shared by the top 127 SR Candidates based on their percentage of the overall vote. The more votes a candidate receives, the greater their share of the 16 TRX allowance. Our TRUC / TRX exchange is capitalized with our shared 16 TRX reward that our node earns as a SR candidate. 
 
-We will gladly allocate 100% of this shared 16 TRX per block allowance during our candidacy because it creates a clear division of income streams versus the 32 TRX in block production income.
+We gladly allocate 100% of this shared 16 TRX per block allowance into the exchange during our candidacy because it creates a clear division of income streams versus the 32 TRX in block production income.
 
 Once we become elected to Super Representative and begin to earn 32 TRX for every block produced, that additional income will go exclusively toward operational expenses and not be used to capitalize our token. Keeping the income streams separate will insure the financial solvency of running the node while setting a voter outreach budget that reflects the income we receive from those efforts.
 
