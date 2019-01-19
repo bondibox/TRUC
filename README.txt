@@ -29,7 +29,7 @@ We complete our strategy by injecting capital and supply into the exchange at th
 
 Over the long term, our monetary intervention will ease as we gradually dilute the supply of tokens on the exchange until all 10 Billion TRUC tokens are in circulation.
 
-Although none of these measures is a bullet proof vest for preventing a sell off that affects price, together we hope that they can elevate the quality of the TRUC token and the value it holds.
+Although none of these measures is a bullet proof vest for preventing a sell off that affects price, we hope that together they can elevate the quality of the TRUC token and the value it holds.
 
 
 CommunityNode's Solution to "Vote Buying"
@@ -51,7 +51,7 @@ There are two rewards that Tron pays with every block produced. We are mostly fa
 
 The second reward is 16 TRX per block shared by the top 127 SR Candidates based on their percentage of the overall vote. The more votes a candidate receives, the greater their share of the 16 TRX allowance. 
 
-Our TRUC / TRX exchange is capitalized with our shared 16 TRX reward that our node earns as a SR candidate. We gladly allocate 100% of this shared 16 TRX per block allowance into the exchange during our candidacy because it creates a clear division of income streams versus the 32 TRX in block production income.
+Our TRUC / TRX exchange is capitalized with our shared 16 TRX reward that our node earns as a SR candidate. We gladly allocate 100% of this shared 16 TRX per block allowance into the exchange because it creates a clear division of income streams versus the 32 TRX in block production income.
 
 Once we become elected to Super Representative and begin to earn 32 TRX for every block produced, that additional income will go exclusively toward operational expenses and not be used to capitalize our token. Keeping the income streams separate will insure the financial solvency of running the node while setting a voter outreach budget that reflects the income we receive from those efforts.
 
@@ -60,11 +60,11 @@ You could say the price of the TRUC token becomes a gauge of the number of votes
 We hope this new strategy will create an incentive for the Tron community to trade the TRUC token and to to vote for us for Super Representative.
 
 
+The CommunityNodeToken info page:  
+https://tronscan.org/#/token/1000322
 
-https://tronscan.org/#/token/CommunityNodeToken/TDGy2M9qWBepSHDEutWWxWd1JZfmAed3BP
 
-
-To trade the CommunityNodeToken on the TRXMarket, you must search for TRUC in the Favorites tab.  
+To trade the CommunityNodeToken on Tronscan's TRXMarket, you must search for TRUC in the Favorites tab.  
 https://tronscan.org/#/exchange/trc10?token=CommunityNodeToken/TRX&id=129
 
 
