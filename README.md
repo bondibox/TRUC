@@ -32,7 +32,7 @@ Over the long term, our monetary intervention will ease as we gradually dilute t
 Although none of these measures is a bullet proof vest for preventing a sell off that affects price, we hope that together they can elevate the quality of the TRUC token and the value it holds.
 
 
-**CommunityNode's Solution to "Vote Buying"**
+##CommunityNode's Solution to "Vote Buying"##
 
 
 For some time, the Tron Super Representatives have been concerned about the direction that voter rewards are taking the Tron project. It seems the rewards have an unwanted effect that makes the grassroots node organizations less competitive than self-elected SR's and their consortiums of wealthy voters.
