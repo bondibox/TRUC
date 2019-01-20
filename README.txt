@@ -23,7 +23,7 @@ Every day new capital comes into the TRUC trading exchange when people buy our t
 
 Basically, when someone buys TRC tokens with TRX, half of that TRX goes toward increasing the price of the token and half of that TRX goes toward freezing votes for Community Node. 
 
-Our account keeps a reserve of capital equal to that held in the exchange, which is used to support the price of the TRUC token. In the same way as we curb the growth of the price during capital inflow, we buffer the drop in price when people divest.  While it's waiting to be used, this TRX is frozen to cast votes for ourselves. Most of it has been frozen for longer than 3 days and is available for withdrawal with no waiting.
+Our account keeps a reserve of capital equal to that held in the exchange, which can be used to support the price of the TRUC token. In the same way as we curb the growth of the price during capital inflow, we buffer the drop in price when people divest.  While it's waiting to be used, this TRX is frozen to cast votes for ourselves. Most of it has been frozen for longer than 3 days and is available for withdrawal with no waiting.
 
 We complete our strategy by injecting capital and supply into the exchange at the same time. This dual-sided transaction is neither a buy nor a sell and does not affect the price of TRUC tokens. What it does is it "makes the pie higher." Consistently increasing the capitalization of our trading exchange will slow the rate that the price changes when people buy & sell. Until the entire 10 billion TRUC token supply is fully capitalized, every trade will unduly affect the price.
 
