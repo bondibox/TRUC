@@ -1,0 +1,33 @@
+Exchange report
+- TRUC Balance 488,446,355
+- TRX Balance 7356.398396
+- Exchange Ratio 0.000015060811326967523
+
+19,802,242  TRUC bought past 24 hours, TRUC balance is below 500 million. Higher balance on Exchange than in Trading account.
+
+Rewards Claimed: 111.620292 TRX
+
+Sell 9,700,000 TRUC
+
+new Exchange report
+- TRUC Balance 498,146,355
+- TRX Balance 7213.153217
+- Exchange Ratio 0.000014479987948521675
+
+Inject 33 TRX (& 2,279,007 TRUC)
+
+Final Exchange report 
+- TRUC Balance 500425362
+- TRX Balance 7246.153217
+- Exchange Ratio 0.000014479987960722102
+
+TRADING ACCOUNT
+Balance:	    221.9729 TRX
+TRON Power:	    7,068 
+Total Balance:	    7,289.9729 TRX (194.43 USD)
+
+
+Exchange has at least 500 million TRUC
+Exchange and Trading account have approximately equal balances.
+
+Freeze 221 TRX
