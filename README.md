@@ -51,7 +51,7 @@ There are two rewards that Tron pays with every block produced. We are mostly fa
 
 The second reward is 16 TRX per block shared by the top 127 SR Candidates based on their percentage of the overall vote. The more votes a candidate receives, the greater their share of the 16 TRX allowance. 
 
-Our TRUC / TRX exchange is capitalized with our shared 16 TRX reward that our node earns as a SR candidate. We gladly allocate 100% of this shared 16 TRX per block allowance into the exchange because it creates a clear division of income streams versus the 32 TRX in block production income.
+Our TRUC / TRX exchange is capitalized with our shared 16 TRX reward that our node earns as a SR candidate. We gladly allocate 100% of this shared 16 TRX per block allowance into the exchange because it creates a clear division of revenue streams versus the 32 TRX in block production income.
 
 Once we become elected to Super Representative and begin to earn 32 TRX for every block produced, that additional income will go exclusively toward operational expenses and not be used to capitalize our token. Keeping the income streams separate will insure the financial solvency of running the node while setting a voter outreach budget that reflects the income we receive from those efforts.
 
