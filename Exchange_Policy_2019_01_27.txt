@@ -1,0 +1,33 @@
+
+2019-1-27 13:14:16
+- TRUC Balance 483812379
+- TRX Balance 7494.969168
+- Exchange Ratio 0.000015491478708113007
+
+Claimable Rewards: 108.187711 TRX
+
+Balance:    109.160611 TRX
+TRON Power:	    7,289 
+Total Balance:	    7,398.160611 TRX (218.31 USD)
+Total Votes:	    1,139,903
+
+// 16612983 TRUC bought since last policy
+
+sell 11000000
+
+- TRUC Balance 494812379
+- TRX Balance 7328.351144
+- Exchange Ratio 0.000014810363392303084
+Total Balance:	    7,564.778635 TRX 
+
+inject 118 TRX
+
+2019-1-27 13:28:44
+- TRUC Balance 502779772
+- TRX Balance 7446.351144
+- Exchange Ratio 0.000014810363420905485
+
+Balance:	    157.778635 TRX
+TRON Power:	    7,289 
+Total Balance:	    7,446.778635 TRX (219.75 USD)
+
