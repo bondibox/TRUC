@@ -1,0 +1,786 @@
+id: 1000322
+owner_address: TDGy2M9qWBepSHDEutWWxWd1JZfmAed3BP
+name: CommunityNodeToken
+order: 0
+total_supply: 10 000 000 000
+
+
+
+TDGy2M9qWBepSHDEutWWxWd1JZfmAed3BP
+account_name: CommunityNode
+balance: 71903167
+  name: CommunityNodeToken
+  balance: 8 299 393 401
+
+
+
+TEzjNLQtH4neJTjZ9Qgfn2qi4qV65h4Pfx
+Balance = 8 252 780
+  name: CommunityNodeToken
+  balance: 1068255
+
+
+Dec 11 100 TRX purchase
+
+Token Balances
+  - First Token ID: 436f6d6d756e6974794e6f6465546f6b656e
+  - First Token Balance 295569444
+  - Second Token ID: 5f
+  - Second Token Balance 1841.846896
+  - Exchange Ratio 0.000006231519980800181
+
+December 11 - 70 TRX injection
+
+Token Balances
+  - First Token ID: 436f6d6d756e6974794e6f6465546f6b656e
+  - First Token Balance 306802658
+  - Second Token ID: 5f
+  - Second Token Balance 1911.846896
+  - Exchange Ratio 0.000006231519988982625
+
+// December 12 109 TRX Injection
+
+exchangeInject 129 _ 112448498 
+
+exchangeTransaction 129 CommunityNodeToken 43000 1
+exchangeTransaction 129 CommunityNodeToken 168000 1
+exchangeTransaction 129 CommunityNodeToken 36312000 1
+
+exchangeInject 129 _ 112448498 
+exchangeInject 129 _ 47769037
+exchangeInject 129 _ 173446761
+exchangeInject 129 _ 2746783
+exchangeInject 129 _ 509061743
+
+
+
+exchangeTransaction 129 CommunityNodeToken 168000 1
+exchangeTransaction 129 CommunityNodeToken 624000 1
+exchangeTransaction 129 CommunityNodeToken 3647000 1
+exchangeTransaction 129 CommunityNodeToken 46464000 1
+Balance = 930957393
+
+
+exchangeInject 129 _ 930957393
+
+
+
+  - First Token ID: 436f6d6d756e6974794e6f6465546f6b656e
+  - First Token Balance 217794337
+  - Second Token ID: 5f
+  - Second Token Balance 4914.165627
+  - Exchange Ratio 0.000022563330592934562
+
+  - First Token ID: 436f6d6d756e6974794e6f6465546f6b656e
+  - First Token Balance 217962337
+  - Second Token ID: 5f
+  - Second Token Balance 4910.37791
+  - Exchange Ratio 0.000022528561482619817
+
+  - First Token ID: 436f6d6d756e6974794e6f6465546f6b656e
+  - First Token Balance 218586337
+  - Second Token ID: 5f
+  - Second Token Balance 4896.360219
+  - Exchange Ratio 0.000022400120182260064
+
+  - First Token ID: 436f6d6d756e6974794e6f6465546f6b656e
+  - First Token Balance 218586337
+  - Second Token ID: 5f
+  - Second Token Balance 4896.360219
+  - Exchange Ratio 0.000022400120182260064
+
+  - First Token ID: 436f6d6d756e6974794e6f6465546f6b656e
+  - First Token Balance 222233337
+  - Second Token ID: 5f
+  - Second Token Balance 4816.007623
+  - Exchange Ratio 0.0000216709503984094
+
+  - First Token ID: 436f6d6d756e6974794e6f6465546f6b656e
+  - First Token Balance 222233337
+  - Second Token ID: 5f
+  - Second Token Balance 4816.007623
+  - Exchange Ratio 0.0000216709503984094
+
+  - First Token ID: 436f6d6d756e6974794e6f6465546f6b656e
+  - First Token Balance 268697337
+  - Second Token ID: 5f
+  - Second Token Balance 3983.208234
+  - Exchange Ratio 0.000014824144810932757
+
+  - First Token ID: 436f6d6d756e6974794e6f6465546f6b656e
+  - First Token Balance 268697337
+  - Second Token ID: 5f
+  - Second Token Balance 3983.208234
+  - Exchange Ratio 0.000014824144810932757
+
+  - First Token ID: 436f6d6d756e6974794e6f6465546f6b656e
+  - First Token Balance 268697337
+  - Second Token ID: 5f
+  - Second Token Balance 3983.208234
+  - Exchange Ratio 0.000014824144810932757
+
+  - First Token ID: 436f6d6d756e6974794e6f6465546f6b656e
+  - First Token Balance 330151532
+  - Second Token ID: 5f
+  - Second Token Balance 4927.815777
+  - Exchange Ratio 0.000014925921279686808
+
+
+exchangeTransaction 129 CommunityNodeToken 624000 1
+
+
+Token Balances
+  - First Token ID: 436f6d6d756e6974794e6f6465546f6b656e
+  - First Token Balance 330776639
+  - Second Token ID: 5f
+  - Second Token Balance 4918.503113
+  - Exchange Ratio 0.000014869560099133844
+
+Dec 13
+
+
+exchangeTransaction 129 CommunityNodeToken 3647000 1
+exchangeTransaction 129 CommunityNodeToken 14647000 1
+exchangeTransaction 129 CommunityNodeToken 54647000 1
+
+- First Token ID: 436f6d6d756e6974794e6f6465546f6b656e
+- First Token Balance 403717639
+- Second Token ID: 5f
+- Second Token Balance 4029.860903
+- Exchange Ratio 0.000009981879694387096
+
+Claimable Rewards: 108.660644 TRX
+
+exchangeInject 129 _ 1006598996
+
+- First Token Balance 504560268
+- Second Token ID: 5f
+- Second Token Balance 5036.459899
+- Exchange Ratio 0.00000998187970480466
+
+- First Token Balance 503886834
+- Second Token ID: 5f
+- Second Token Balance 5033.141905
+- Exchange Ratio 0.0000099886354740517
+
+
+
+
+exchangeTransaction 129 CommunityNodeToken 168000 1
+exchangeTransaction 129 CommunityNodeToken 624000 1
+
+- First Token Balance 504678834
+- Second Token ID: 5f
+- Second Token Balance 5025.243322
+- Exchange Ratio 0.000009957309448012238
+
+exchangeTransaction 129 CommunityNodeToken 2731000 1
+- First Token Balance 507409834
+- Second Token Balance 4998.196272
+- Exchange Ratio 0.000009850412698150426
+
+Balance = 39945633
+
+
+12/14
+Claimable Rewards: 107.653352 TRX
+
+exchangeTransaction 129 CommunityNodeToken 2000000 1
+
+exchangeTransaction 129 _ 18000000 1
+
+exchangeInject 129 _ 20000000
+
+exchangeTransaction 129 _ 26000000 1
+exchangeTransaction 129 _ 14000000 1
+exchangeInject 129 _ 30000000
+
+exchangeTransaction 129 CommunityNodeToken 2000000 1
+
+exchangeTransaction 129 _ 20000000 1
+
+exchangeTransaction 129 CommunityNodeToken 2000000 1
+
+Evening
+
+exchangeTransaction 129 CommunityNodeToken 7000000 1
+exchangeInject 129 _ 30000000
+
+
+exchangeTransaction 129 CommunityNodeToken 2000000 1
+exchangeInject 129 _ 44000000
+
+
+- First Token Balance 509214798
+- Second Token ID: 5f
+- Second Token Balance 5345.217775
+- Exchange Ratio 0.000010496980441247899
+
+
+
+Dec 17
+Claimable Rewards: 290.853607 TRX
+
+
+
+Dec 27
+4,129.909414 TRX
+Available Balance
+
+Claimable Rewards: 298.547292 TRX
+
+- First Token Balance 551413401
+- Second Token Balance 4936.159387
+- Exchange Ratio 0.000008951830655635444
+
+Buy 8677777 TRUC
+- First Token Balance 542740284
+- Second Token Balance 5015.04038
+- Exchange Ratio 0.000009240221387362505
+
+
+Buy 18677777 TRUC
+Estimated Cost：169.780993
+- First Token Balance 524967833
+- Second Token Balance 5184.821373
+- Exchange Ratio 0.00000987645536940927
+
+
+
+
+Jan 2
+Claimable Rewards: 456.012483 TRX
+
+
+Claimable Rewards: 103.907607 TRX
+
+
+Jan 5
+Claimable Rewards: 146.00942 TRX
+
+
+exchangeTransaction 129 CommunityNodeToken 222 1
+
+exchangeTransaction 129 1000322 222 1
+
+
+Jan 8 260 TRX purchase
+
+Jan 10
+allowance: 125424217
+- First Token Balance 546464758
+- Second Token ID: 5f
+- Second Token Balance 4980.860069
+- Exchange Ratio 0.00000911469586296725
+
+buy 8mm TRUC
+- First Token ID: 31303030333232
+- First Token Balance 538294470
+- Second Token ID: 5f
+- Second Token Balance 5056.460069
+- Exchange Ratio 0.000009393483215608736
+
+buy 6mm TRUC
+- First Token ID: 31303030333232
+- First Token Balance 532325305
+- Second Token ID: 5f
+- Second Token Balance 5113.160069
+- Exchange Ratio 0.000009605329712815361
+
+buy 1.5mm TRUC
+- First Token ID: 31303030333232
+- First Token Balance 530853642
+- Second Token ID: 5f
+- Second Token Balance 5127.335069
+- Exchange Ratio 0.000009658660435450116
+
+
+
+Jan 11
+Claimable Rewards: 128.143825 TRX
+
+Jan 12
+Claimable Rewards: 127.462828 TRX
+buy 14800000
+
+
+
+Jan 14
+Claimable Rewards: 84.596348 TRX
+buy 9000000
+
+Jan 15
+Claimable Rewards: 105.80336 TRX
+buy 1000000
+buy 3000000
+buy 4000000
+
+- First Token Balance 531431718
+- Second Token ID: 5f
+- Second Token Balance 5121.757752
+- Exchange Ratio 0.00000963765913573115
+
+Jan 17
+rewards 204
+
+buy 3300000
+buy 4420000
+- First Token Balance 527714283
+- Second Token ID: 5f
+- Second Token Balance 5157.837524
+- Exchange Ratio 0.000009773920642583783
+
+
+
+Jan 19
+
+- First Token Balance 528565826
+- Second Token ID: 5f
+- Second Token Balance 5149.52802
+- Exchange Ratio 0.00000974245357284979
+Total Balance:    5,148.588494 TRX
+Claimable Rewards: 168.694005 TRX
+
+
+buy 8117777
+
+- First Token Balance 519959292
+- Second Token ID: 5f
+- Second Token Balance 5234.764679
+- Exchange Ratio 0.00001006764329350614
+
+sell 2000000
+
+- First Token Balance 521959292
+- Second Token ID: 5f
+- Second Token Balance 5214.706546
+- Exchange Ratio 0.000009990638400206889
+
+
+2019-1-22 18:18:14
+- TRUC Balance 470771907
+- TRX Balance 5781.705547
+- Exchange Ratio 0.000012281330854774221
+
+inject 150 TRX
+buy 17444433
+
+Balance:	    0.94377 TRX
+TRON Power:	    5,445 
+Total Balance:	    5,445.94377 TRX (144.36 USD)
+Total Votes:	    1,073,684
+
+
+
+
+2019-1-23 10:39:15
+- TRUC Balance 492414922
+- TRX Balance 5818.118106
+- Exchange Ratio 0.00001181547886966756
+
+sell 8000000
+Claimable Rewards: 165.242517 TRX
+
+
+2019-1-23 10:45:21
+
+EXCHANGE
+- TRUC Balance 500370873
+- TRX Balance 5725.609403
+- Exchange Ratio 0.00001144273120589895
+
+ACCOUNT
+Balance:	    0.19899 TRX
+TRON Power:	    5,732 
+Total Balance:	    5,732.19899 TRX
+
+
+
+
+2019-1-24 06:37:43
+- TRUC Balance 370016513
+- TRX Balance 7742.703606
+- Exchange Ratio 0.000020925292072032474
+
+
+sell 6000000
+sell 60000000
+sell 30000000
+
+
+2019-1-24 06:43:11
+- TRUC Balance 466016513
+- TRX Balance 6147.696724
+- Exchange Ratio 0.00001319201477309024
+
+Inject 600 TRX
+
+EXCHANGE
+- TRUC Balance 511498572
+- TRX Balance 6747.696724
+- Exchange Ratio 0.00001319201477309024
+
+TRADING ACCOUNT
+Balance:	    995.205872 TRX
+TRON Power:	    5,732 
+Total Balance:	    6,727.205872 TRX (178.26 USD)
+
+
+2019-1-24 13:37:23
+- TRUC Balance 482461793
+- TRX Balance 7153.804313
+- Exchange Ratio 0.000014827711575909182
+
+Claimable Rewards: 87.956927 TRX
+sell 20000000
+
+2019-1-24 13:41:59
+- TRUC Balance 502461793
+- TRX Balance 6869.054133
+- Exchange Ratio 0.000013670798911868707
+
+inject 100 TRX
+
+2019-1-24 13:44:16
+- TRUC Balance 509776654
+- TRX Balance 6969.054133
+- Exchange Ratio 0.000013670798924032327
+
+2019-1-24 20:49:53
+- TRUC Balance 497712752
+- TRX Balance 7137.974852
+- Exchange Ratio 0.00001434155509039479
+
+sell 13000000
+
+Token Balances
+  2019-1-24 20:52:04
+  - TRUC Balance 510712752
+  - TRX Balance 6956.280402
+  - Exchange Ratio 0.000013620729803120326
+
+buy 5000000
+
+2019-1-24 20:53:19
+- TRUC Balance 505372986
+- TRX Balance 7029.780402
+- Exchange Ratio 0.000013910083436869734
+
+inject 40 TRX
+
+2019-1-24 20:55:36
+- TRUC Balance 508248597
+- TRX Balance 7069.780402
+- Exchange Ratio 0.00001391008345862684
+
+2019-1-26 00:37:12
+- TRUC Balance 488446355
+- TRX Balance 7356.398396
+- Exchange Ratio 0.000015060811326967523
+
+Claimable Rewards: 111.620292 TRX
+
+sell 6500000
+
+2019-1-26 00:39:05
+- TRUC Balance 494946355
+- TRX Balance 7259.788756
+- Exchange Ratio 0.000014667829518615204
+
+
+Balance:	    208.337361 TRX
+TRON Power:	    7,068 
+Total Balance:	    7,276.337361 TRX (194.33 USD)
+Total Votes:	    1,133,483
+
+sell 3200000
+
+2019-1-26 00:48:39
+- TRUC Balance 498146355
+- TRX Balance 7213.153217
+- Exchange Ratio 0.000014479987948521675
+
+inject 33
+
+2019-1-26 00:50:04
+- TRUC Balance 500425362
+- TRX Balance 7246.153217
+- Exchange Ratio 0.000014479987960722102
+
+Balance:	    221.9729 TRX
+TRON Power:	    7,068 
+Total Balance:	    7,289.9729 TRX (194.43 USD)
+
+
+
+
+2019-1-27 13:14:16
+- TRUC Balance 483812379
+- TRX Balance 7494.969168
+- Exchange Ratio 0.000015491478708113007
+
+Claimable Rewards: 108.187711 TRX
+
+Balance:    109.160611 TRX
+TRON Power:	    7,289 
+Total Balance:	    7,398.160611 TRX (218.31 USD)
+Total Votes:	    1,139,903
+
+// 16612983 TRUC bought since last policy
+
+sell 11000000
+
+- TRUC Balance 494812379
+- TRX Balance 7328.351144
+- Exchange Ratio 0.000014810363392303084
+Total Balance:	    7,564.778635 TRX 
+
+inject 118 TRX
+
+2019-1-27 13:28:44
+- TRUC Balance 502779772
+- TRX Balance 7446.351144
+- Exchange Ratio 0.000014810363420905485
+
+Balance:	    157.778635 TRX
+TRON Power:	    7,289 
+Total Balance:	    7,446.778635 TRX (219.75 USD)
+
+
+
+
+
+2019-1-28 02:15:31
+- TRUC Balance 446137985
+- TRX Balance 8391.741715
+- Exchange Ratio 0.00001880974496040726
+
+Total Balance:	    7,446.778635 TRX
+
+// 56,641,787 TRUC bought since last policy
+
+sell 38000000
+
+2019-1-28 02:19:25
+- TRUC Balance 484137985
+- TRX Balance 7733.073743
+- Exchange Ratio 0.000015972871335431364
+
+Total Balance:	    8,105.446607 TRX
+
+inject 186 TRX
+2019-1-28 02:22:22
+- TRUC Balance 495782729
+- TRX Balance 7919.073743
+- Exchange Ratio 0.00001597287134017934
+
+
+
+
+
+2019-1-28 02:25:26
+- TRUC Balance 486167332
+- TRX Balance 8075.696866
+- Exchange Ratio 0.00001661094099592854
+Total Balance:	    7,919.446607 TRX
+
+sell 10000000
+inject 60
+sell 5000000
+inject 30
+inject 50
+
+
+2019-1-28 02:42:01
+- TRUC Balance 506639491
+- TRX Balance 8025.758647
+- Exchange Ratio 0.00001584116277860385
+
+Total Balance:	    8,024.414572 TRX
+
+
+2019-1-28 04:26:01
+- TRUC Balance 489259778
+- TRX Balance 8310.853392
+- Exchange Ratio 0.000016986586197568035
+
+sell 7000000
+sell 1300000
+sell 300000
+
+2019-1-28 04:33:55
+- TRUC Balance 497859778
+- TRX Balance 8167.29221
+- Exchange Ratio 0.000016404804265991537
+Total Balance:	    8,167.975754 TRX
+
+sell 2000000
+inject 32 trx
+
+
+2019-1-28 04:39:25
+- TRUC Balance 501826129
+- TRX Balance 8166.613877
+- Exchange Ratio 0.000016273791668189522
+
+Total Balance:	    8,168.654087 TRX
+
+
+2019-1-28 23:15:52
+- TRUC Balance 491584178
+- TRX Balance 8336.761877
+- Exchange Ratio 0.00001695897111847241
+
+Claimable Rewards: 92.682486 TRX
+Total Balance:    8,261.336573 TRX
+
+sell 5500000
+inject 55 
+
+2019-1-28 23:33:17
+- TRUC Balance 500400275
+- TRX Balance 8299.519573
+- Exchange Ratio 0.000016585761414699463
+
+Total Balance:    8,298.578877 TRX
+
+
+2019-1-29 12:55:09
+- TRUC Balance 495554641
+- TRX Balance 8380.673974
+- Exchange Ratio 0.000016911705149382307
+
+Total Balance:	    8,298.578877 TRX
+
+sell 3500000
+inject 65
+
+2019-1-29 12:58:30
+- TRUC Balance 502952616
+- TRX Balance 8386.898128
+- Exchange Ratio 0.00001667532459558775
+
+Total Balance:    8,292.354723 TRX
+
+
+
+
+2019-1-29 21:13:36
+- TRUC Balance 496871978
+- TRX Balance 8489.535628
+- Exchange Ratio 0.000017085961784707445
+
+sell 5000000
+
+2019-1-29 21:17:07
+- TRUC Balance 501871978
+- TRX Balance 8404.956931
+- Exchange Ratio 0.000016747213033280768
+
+Total Balance:    8,376.93342 TRX
+
+
+Claimable Rewards: 115.581836 TRX
+
+2019-1-30 00:10:22
+- TRUC Balance 501871978
+- TRX Balance 8404.956931
+- Exchange Ratio 0.000016747213033280768
+
+Total Balance:    8,492.515256 TRX
+inject 39
+
+2019-1-30 00:28:23
+- TRUC Balance 504200723
+- TRX Balance 8443.956931
+- Exchange Ratio 0.00001674721305586069
+
+Total Balance:    8,453.515256 TRX
+
+
+
+2019-1-30 10:00:46
+- TRUC Balance 467456322
+- TRX Balance 9107.694113
+- Exchange Ratio 0.000019483518960729766
+
+sell 2500000
+sell 22000000
+
+2019-1-30 10:05:09
+- TRUC Balance 491956322
+- TRX Balance 8654.120299
+- Exchange Ratio 0.000017591237091572532
+
+inject 125 trx
+
+2019-1-30 10:09:59
+- TRUC Balance 499062132
+- TRX Balance 8779.120299
+- Exchange Ratio 0.000017591237114740655
+Total Balance:    8,782.08907 TRX
+
+
+2019-1-30 10:18:23
+- TRUC Balance 473328016
+- TRX Balance 9256.427582
+- Exchange Ratio 0.00001955605260855719
+
+sell 23000000
+
+2019-1-30 10:19:41
+- TRUC Balance 496328016
+- TRX Balance 8827.481749
+- Exchange Ratio 0.000017785580230071075
+
+inject 192 TRX
+
+2019-1-30 10:21:17
+- TRUC Balance 507123278
+- TRX Balance 9019.481749
+- Exchange Ratio 0.000017785580233215008
+
+Total Balance:    9,019.034903 TRX
+
+
+2019-1-30 14:53:44
+- TRUC Balance 460049938
+- TRX Balance 9942.375327
+- Exchange Ratio 0.000021611513241851583
+
+sell 30000000
+sell 8000000
+
+2019-1-30 15:05:27
+- TRUC Balance 463104537
+- TRX Balance 9876.79625
+- Exchange Ratio 0.000021327357995631126
+
+sell 35000000
+sell 5000000
+sell 30000000
+buy 6000000
+
+2019-1-30 15:13:48
+- TRUC Balance 495089201
+- TRX Balance 9238.717297
+- Exchange Ratio 0.000018660712611665305
+
+inject 600
+
+2019-1-30 15:14:55
+- TRUC Balance 527242313
+- TRX Balance 9838.717297
+- Exchange Ratio 0.00001866071264466211
+
+buy 15500000
+
+2019-1-30 15:19:49
+- TRUC Balance 511176347
+- TRX Balance 10147.942297
+- Exchange Ratio 0.000019852135875527903
+
+Total Balance:    10,114.061877 TRX
+
+
+
