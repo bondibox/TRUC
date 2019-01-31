@@ -17,7 +17,7 @@ As the CEO of CommunityNodeToken, my goals are identical to what the token holde
 
 To carry out this strategy, our first monetary policy is to sell TRUC and maintain a constant supply of 500 Million tokens on the exchange. This should provide price stability while limiting volatility. 
 
-We started the TRUC/TRX exchange, ID: 129, with 500 Million tokens and 1000 TRX, which set the initial price per token at 0.000002 TRX. Since then, an additional 4000 TRX liquidity has been added while the supply of tokens on the exchange was kept constant at 500 million, bringing the price per token up to 0.000010 TRX. 
+We started the TRUC/TRX exchange, ID: 129, with 500 Million tokens and 1000 TRX, which set the initial price per token at 0.000002 TRX. Since then, an additional 9000 TRX liquidity has been added while the supply of tokens on the exchange was kept constant at 500 million, bringing the price per token up to 0.000020 TRX. 
 
 Every day new capital comes into the TRUC trading exchange when people buy our tokens and when we claim the allowance that Community Node SR Candidate receives. This new capital, if allowed to flow into the exchange unchecked, could result in unhealthy token price growth. 
 
