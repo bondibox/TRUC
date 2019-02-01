@@ -1,0 +1,31 @@
+// Exchange Report
+  2019-2-1 00:00:00
+  - TRUC Balance 537519761
+  - TRX Balance 12284.174377
+  - Exchange Ratio 0.00002285343771203232
+
+// Exchange Trading Account:
+Total Balance:    12,059.981428 TRX
+CommunityNodeToken (TRUC)	1000322	0	7,298,545,580
+
+
+// Exchange Report
+  2019-2-1 01:32:03
+  - TRUC Balance 511057968
+  - TRX Balance 12920.229995
+  - Exchange Ratio 0.000025281339503545317
+
+sell 10000000
+sell 5000000
+
+// Exchange Report
+  2019-2-1 01:34:02
+  - TRUC Balance 526057968
+  - TRX Balance 12551.822973
+  - Exchange Ratio 0.000023860151801749727
+
+// Exchange Trading Account:
+Total Balance:    12,428.38845 TRX
+CommunityNodeToken (TRUC)	1000322	0	7,283,545,580
+
+
