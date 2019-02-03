@@ -28,4 +28,277 @@ sell 5000000
 Total Balance:    12,428.38845 TRX
 CommunityNodeToken (TRUC)	1000322	0	7,283,545,580
 
+Claimable Rewards: 104.289943 TRX
+Total Balance:    12,532.678393 TRX
+
+sell 4500000
+
+// Exchange Report
+  2019-2-1 02:49:12
+  - TRUC Balance 522242296
+  - TRX Balance 12643.530681
+  - Exchange Ratio 0.00002421008558257411
+
+Total Balance:    12,642.570685 TRX
+
+
+// Exchange Report
+  2019-2-1 14:17:52
+  - TRUC Balance 445281951
+  - TRX Balance 14828.776512
+  - Exchange Ratio 0.000033301993217326694
+
+sell 60000000
+
+// Exchange Report
+  2019-2-1 14:19:05
+  - TRUC Balance 501012753
+  - TRX Balance 13179.278428
+  - Exchange Ratio 0.00002630527536292075
+
+
+
+// Exchange Report
+  2019-2-1 14:20:03
+  - TRUC Balance 494489837
+  - TRX Balance 13353.129028
+  - Exchange Ratio 0.00002700384927830175
+
+sell 10000000
+
+
+// Exchange Report
+  2019-2-1 14:21:06
+  - TRUC Balance 499073786
+  - TRX Balance 13230.481754
+  - Exchange Ratio 0.00002651007150674109
+
+sell 5000000
+
+// Exchange Report
+  2019-2-1 14:21:42
+  - TRUC Balance 499073786
+  - TRX Balance 13230.481754
+  - Exchange Ratio 0.00002651007150674109
+
+
+
+// Exchange Report
+  2019-2-1 14:23:25
+  - TRUC Balance 495493788
+  - TRX Balance 13326.073488
+  - Exchange Ratio 0.00002689453190077128
+
+sell 7000000
+// Exchange Report
+  2019-2-1 14:24:31
+  - TRUC Balance 502493788
+  - TRX Balance 13140.434349
+  - Exchange Ratio 0.000026150441384162942
+
+// Exchange Report
+  2019-2-1 14:25:29
+  - TRUC Balance 492922629
+  - TRX Balance 13395.584349
+  - Exchange Ratio 0.00002717583564012031
+
+sell 20000000
+
+// Exchange Report
+  2019-2-1 14:26:29
+  - TRUC Balance 511881626
+  - TRX Balance 12899.440651
+  - Exchange Ratio 0.000025200046252490413
+
+inject 1300
+
+Total Balance:    14,224.999197 TRX
+
+
+
+
+// Exchange Report
+  2019-2-1 19:13:30
+  - TRUC Balance 424545352
+  - TRX Balance 18793.931634
+  - Exchange Ratio 0.00004426837214319567
+
+sell 75000000
+
+
+// Exchange Report
+  2019-2-1 19:14:20
+  - TRUC Balance 499545352
+  - TRX Balance 15972.276169
+  - Exchange Ratio 0.00003197362582807096
+
+
+// Exchange Report
+  2019-2-1 19:15:08
+  - TRUC Balance 489253202
+  - TRX Balance 16308.276169
+  - Exchange Ratio 0.00003333299833774006
+
+sell 10000000
+
+inject 650
+
+
+
+
+// Exchange Report
+  2019-2-1 20:03:17
+  - TRUC Balance 469528827
+  - TRX Balance 18397.270493
+  - Exchange Ratio 0.00003918240890670596
+
+sell 70000000
+
+// Exchange Report
+  2019-2-1 20:04:21
+  - TRUC Balance 539528827
+  - TRX Balance 16010.356449
+  - Exchange Ratio 0.000029674700679153886
+
+buy 20000000
+
+// Exchange Report
+  2019-2-1 20:05:21
+  - TRUC Balance 511358429
+  - TRX Balance 16892.356449
+  - Exchange Ratio 0.000033034277897861734
+
+inject 700
+
+
+
+// Exchange Report
+  2019-2-2 05:18:05
+  - TRUC Balance 409735936
+  - TRX Balance 22857.985096
+  - Exchange Ratio 0.00005578711332754567
+
+sell 60000000
+
+// Exchange Report
+  2019-2-2 05:20:12
+  - TRUC Balance 469735936
+  - TRX Balance 19938.304057
+  - Exchange Ratio 0.00004244577118536658
+
+// Exchange Report
+  2019-2-2 05:28:11
+  - TRUC Balance 489735936
+  - TRX Balance 19124.056926
+  - Exchange Ratio 0.00003904973174359825
+
+inject 693
+
+// Exchange Report
+  2019-2-2 05:30:05
+  - TRUC Balance 507482536
+  - TRX Balance 19817.056926
+  - Exchange Ratio 0.00003904973180397285
+
+
+// Exchange Report
+  2019-2-2 09:04:01
+  - TRUC Balance 406118176
+  - TRX Balance 24763.261107
+  - Exchange Ratio 0.00006097550558042494
+
+sell 65000000
+
+// Exchange Report
+  2019-2-2 09:05:20
+  - TRUC Balance 471118176
+  - TRX Balance 21346.683158
+  - Exchange Ratio 0.00004531067627074528
+
+// Exchange Report
+  2019-2-2 09:07:12
+  - TRUC Balance 458772498
+  - TRX Balance 21921.127658
+  - Exchange Ratio 0.00004778213112940349
+
+sell 10000000
+
+
+
+// Exchange Report
+  2019-2-2 10:16:16
+  - TRUC Balance 455378360
+  - TRX Balance 22084.515779
+  - Exchange Ratio 0.000048497069072408275
+
+sell 9000000
+
+// Exchange Report
+  2019-2-2 10:18:23
+  - TRUC Balance 464378360
+  - TRX Balance 21656.501343
+  - Exchange Ratio 0.000046635466267205045
+
+
+inject 1237
+
+Claimable Rewards: 220.936488 TRX
+
+// Exchange Report
+  2019-2-2 10:25:50
+  - TRUC Balance 490903236
+  - TRX Balance 22893.501343
+  - Exchange Ratio 0.00004663546634881013
+
+
+buy 5943423
+
+// Exchange Report
+  2019-2-2 11:00:18
+  - TRUC Balance 484693421
+  - TRX Balance 23186.809268
+  - Exchange Ratio 0.00004783809365549445
+
+
+
+// Exchange Report
+  2019-2-2 21:59:57
+  - TRUC Balance 440901610
+  - TRX Balance 25489.800378
+  - Exchange Ratio 0.00005781289929515113
+
+sell 20000000
+
+// Exchange Report
+  2019-2-2 22:01:29
+  - TRUC Balance 460900541
+  - TRX Balance 24383.772723
+  - Exchange Ratio 0.0000529046302920265
+
+
+
+
+// Exchange Report
+  2019-2-3 03:40:41
+  - TRUC Balance 446726372
+  - TRX Balance 25157.444965
+  - Exchange Ratio 0.000056315110416181114
+
+sell 14000000
+
+// Exchange Report
+  2019-2-3 03:43:29
+  - TRUC Balance 480726372
+  - TRX Balance 23378.151841
+  - Exchange Ratio 0.00004863089109036856
+
+buy 25000000
+sell 5400000
+
+// Exchange Report
+  2019-2-3 03:45:10
+  - TRUC Balance 460088626
+  - TRX Balance 24426.802799
+  - Exchange Ratio 0.00005309151632668268
+
 
