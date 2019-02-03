@@ -19,9 +19,11 @@ To carry out this strategy, our first monetary policy is to sell TRUC and mainta
 
 We started the TRUC/TRX exchange, ID: 129, with 500 Million tokens and 1000 TRX, which set the initial price per token at 0.000002 TRX. Within 30 days, an additional 11000 TRX liquidity was added while the supply of tokens on the exchange was kept constant at 500 million, bringing the price per token up to 0.000024 TRX. 
 
-You can check the current exchange balance with this URL. The first token is TRUC and second token is TRX. The TRX value is in SUN so divide by 1000000 to get the decimal place correct. To get the exchange ratio, divide the second token quantity by the first token quantity.
+You can check the current exchange balance with this URL. 
 
 [https://api.trongrid.io/wallet/getexchangebyid?id=129](https://api.trongrid.io/wallet/getexchangebyid?id=129)
+
+The first token is TRUC and second token is TRX. The TRX value is in SUN so divide by 1000000 to get the decimal place correct. To get the exchange ratio, divide the second token quantity by the first token quantity.
 
 Every day new capital comes into the TRUC trading exchange when people buy our tokens and when we claim the allowance that Community Node SR Candidate receives. This new capital, if allowed to flow into the exchange unchecked, could result in unhealthy token price growth. 
 
