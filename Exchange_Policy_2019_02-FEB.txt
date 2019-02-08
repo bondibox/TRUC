@@ -650,6 +650,7 @@ INJECT 2200
   - TRX Balance 35061.765016
   - Exchange Ratio 0.0000828445323114106
 
+
 // Exchange Report
   2019-2-7 16:32:02
   - TRUC Balance 409508073
@@ -665,4 +666,18 @@ INJECT 1200
   - Exchange Ratio 0.00008848685623592321
 
 
+// Exchange Report
+  2019-2-7 18:47:45
+  - TRUC Balance 421694000
+  - TRX Balance 37558.184752
+  - Exchange Ratio 0.00008906502049353322
+
+BUY 500 TRUC
+BUY 5300000 TRUC
+
+// Exchange Report
+  2019-2-7 18:51:45
+  - TRUC Balance 416204931
+  - TRX Balance 38053.516477
+  - Exchange Ratio 0.00009142975885838315
 
