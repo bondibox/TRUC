@@ -25,7 +25,7 @@ Since then, demand for the TRUC token has outstripped our ability to maintain a 
 
 We have released approximately 40% of the 10 Billion TRUC supply into circulation, at what we believe is far below the fair market value for this token. 
 
-At this rate of keeping 1:1 TRX on both the exchange and the trading account will quickly deplete the supply of TRUC and leave us unable to effectively control larger price swings. By allowing the amount of TRX in the trading account to lag behind the amount on the exchange, we can better utilize our remaining supply of TRUC while still adhering to the principles we set about at the onset of our exchange policy.
+At this rate, keeping 1:1 TRX on both the exchange and the trading account will quickly deplete the supply of TRUC and leave us unable to effectively control larger price swings. By allowing the amount of TRX in the trading account to lag behind the amount on the exchange, we can better utilize our remaining supply of TRUC while still adhering to the principles we set about at the onset of our exchange policy.
 
 You can check the current exchange balance with this URL. 
 
