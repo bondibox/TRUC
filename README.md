@@ -15,9 +15,17 @@ The price of our TRUC token should grow in value to reflect the growth in our to
 
 As the CEO of CommunityNodeToken, my goals are identical to what the token holders want. Neither of us wants to see the price of the TRUC token grow so fast that only one person can sell at the top. Our goals are to create price stability and build value. The strategy to accomplish this is to consistently increase the capitalization of our trading exchange.
 
-To carry out this strategy, our first monetary policy is to sell TRUC and maintain a constant supply of 500 Million tokens on the exchange. This should provide price stability while limiting volatility. 
+### An Important Change Since the Exchange Was Created
 
-We started the TRUC/TRX exchange, ID: 129, with 500 Million tokens and 1000 TRX, which set the initial price per token at 0.000002 TRX. Within 30 days, an additional 11000 TRX liquidity was added while the supply of tokens on the exchange was kept constant at 500 million, bringing the price per token up to 0.000024 TRX. Since then, demand for the TRUC token has outstripped our ability to maintain a constant supply. We have allowed the supply of TRUC to drop to 400 million and may allow the supply to fall further.
+Our first monetary policy was to sell TRUC and maintain a constant supply of 500 Million tokens on the exchange. This provided the necessary liquidity for the exchange to establish a firm foundation. We were able to establish stable price growth while limiting volatility. 
+
+We started the TRUC/TRX exchange, ID: 129, with 500 Million tokens and 1000 TRX and maintained 500 Million TRUC supply until Feb 1. 
+
+Since then, demand for the TRUC token has outstripped our ability to maintain a constant supply. Accordingly, we have allowed the supply of TRUC to drop to 400 million, then 300 million. With 24 hour volume exceeding the exchange's capitalization, we are nearing a time when the market can establish a reasonable growth rate by itself without our interference. 
+
+We have released approximately 40% of the 10 Billion TRUC supply into circulation, at what we believe is far below the fair market value for this token. 
+
+At this rate of keeping 1:1 TRX on both the exchange and the trading account will quickly deplete the supply of TRUC and leave us unable to effectively control larger price swings. By allowing the amount of TRX in the trading account to lag behind the amount on the exchange, we can better utilize our remaining supply of TRUC while still adhering to the principles we set about at the onset of our exchange policy.
 
 You can check the current exchange balance with this URL. 
 
