@@ -21,7 +21,7 @@ Our first monetary policy was to sell TRUC and maintain a constant supply of 500
 
 We started the TRUC/TRX exchange, ID: 129, with 500 Million tokens and 1000 TRX and maintained 500 Million TRUC supply until Feb 1. 
 
-Since then, demand for the TRUC token has outstripped our ability to maintain a constant supply. Accordingly, we have allowed the supply of TRUC to drop to 400 million, then 300 million. With 24 hour volume exceeding the exchange's capitalization, we are nearing a time when the market can establish a reasonable growth rate by itself with our limited interference. 
+Since then, demand for the TRUC token has outstripped our ability to maintain a constant supply. Accordingly, we have allowed the supply of TRUC to drop to 400 million, then 300 million. With 24 hour volume exceeding the exchange's capitalization, we are entering a time when the market can establish a reasonable growth rate by itself with our limited interference. 
 
 We have released approximately 40% of the 10 Billion TRUC supply into circulation, at what we believe is far below the fair market value for this token. 
 
