@@ -681,3 +681,21 @@ BUY 5300000 TRUC
   - TRX Balance 38053.516477
   - Exchange Ratio 0.00009142975885838315
 
+TRANSFER 1,000,000,000 TRUC to Jason_Neely TPkRda5PbZr3XeZzACNV8Ad8iaYRp8KjQU
+
+// Exchange Report
+  2019-2-7 23:08:13
+  - TRUC Balance 417155581
+  - TRX Balance 37966.797827
+  - Exchange Ratio 0.00009101352003007243
+
+Claimable Rewards: 599.927556 TRX
+BUY 1190000
+
+// Exchange Report
+  2019-2-7 23:12:47
+  - TRUC Balance 414074393
+  - TRX Balance 38249.314359
+  - Exchange Ratio 0.00009237304939791339
+
+
