@@ -35,7 +35,7 @@ The first token is TRUC and second token is TRX. The TRX value is in SUN so divi
 
 Every day new capital comes into the TRUC trading exchange when people buy our tokens and when we claim the allowance that Community Node SR Candidate receives. This new capital, if allowed to flow into the exchange unchecked, could result in unhealthy token price growth. 
 
-Basically, when someone buys TRC tokens with TRX, half of that TRX goes toward increasing the price of the token and half of that TRX goes toward freezing votes for Community Node. 
+Basically, when someone buys TRUC tokens with TRX, half of that TRX goes toward increasing the price of the token and half of that TRX goes toward freezing votes for Community Node. 
 
 Our account keeps a reserve of capital equal to that held in the exchange, which can be used to support the price of the TRUC token. In the same way as we curb the growth of the price during capital inflow, we buffer the drop in price when people divest.  While it's waiting to be used, this TRX is frozen to cast votes for ourselves. Most of it has been frozen for longer than 3 days and is available for withdrawal with no waiting.
 
