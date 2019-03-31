@@ -514,3 +514,13 @@ BUY 10000000 TRUC
   - TRUC Balance 474431598
   - TRX Balance 316332.742054
   - Exchange Ratio 0.000666761538201762
+
+
+// Exchange Report
+  2019-3-31 21:13:25
+  - TRUC Balance 462866019
+  - TRX Balance 324236.92933
+  - Exchange Ratio 0.000700498450999921
+
+Claimable Rewards: 1,124.331053 TRX
+
