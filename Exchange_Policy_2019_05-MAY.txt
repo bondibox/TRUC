@@ -1,0 +1,21 @@
+
+// Exchange Report
+  2019-5-5 00:17:24
+  - TRUC Balance 474854034
+  - TRX Balance 316051.484274
+  - Exchange Ratio 0.0006655760752661102
+
+Claimable Rewards: 1,486.889692 TRX
+
+
+
+
+// Exchange Report
+  2019-5-9 15:03:25
+  - TRUC Balance 500675696
+  - TRX Balance 299751.580259
+  - Exchange Ratio 0.0005986940901141725
+
+Claimable Rewards: 917 TRX
+
+BUY 5700000 TRUC
