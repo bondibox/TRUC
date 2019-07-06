@@ -26,4 +26,6 @@ Claimable Rewards: 1,948.338311 TRX
   Claimable Rewards: 1,330.280045 TRX
   
   
-  
+*** Claimable Rewards Will No Longer Be a Part of The Exchange Report ***
+*** Rewards will be claimed automatically every 24 hours ***
+*** Look for the balance of CN SR account to reflect the additional TRX ***
