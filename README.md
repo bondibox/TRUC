@@ -11,9 +11,7 @@ The Community Node SR pays out 95% of our earned rewards back to the voters, lea
 
 With the capital we have raised, we vote for the Community Node SR, and with the rewards it brings, the value of TRUC slowly compounds.
 
-Until we become an elected block producer, 100% of our portion of rewards, plus the rewards we earn from our votes, goes toward building the equity backing the TRUC token.
-
-As an elected block producer, our payout will drop to 90%, with 5% going to the expense of running a node and 5% continuing to be used to support the price of TRUC.
+Until we become an elected block producer, 100% of our portion of rewards, plus the rewards we earn from our votes, goes toward building the equity backing the TRUC token. As an elected block producer, our payout will drop to 90%, with 5% going to the expense of running a node and 5% continuing to be used to support the price of TRUC.
 
 Other than supporting the price of TRUC, the equity accrued will never be spent, although there are some opportunities for putting it to good use, such as City Uptake's investment plan that bears a higher yield than can be earned from voting. It also might provide the vested capital that would allow us to launch a TRON side-chain.
 
