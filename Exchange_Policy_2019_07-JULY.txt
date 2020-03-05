@@ -1,0 +1,29 @@
+  
+*** Claimable Rewards Will No Longer Be a Part of The Exchange Report ***
+*** Rewards will be claimed automatically every 24 hours ***
+*** Look for the balance of CN SR account to reflect the additional TRX ***
+
+
+// Exchange Report
+  2019-8-13 23:31:16
+  - TRUC Balance 635518052
+  - TRX Balance 236151.237054
+  - Exchange Ratio 0.00037158855883137056
+  
+exchangeTransaction 129 _ 14000000000 1
+
+
+// Exchange Report
+  2019-8-13 23:37:11
+  - TRUC Balance 599950558
+  - TRX Balance 250151.237054
+  - Exchange Ratio 0.0004169530867475249    
+  
+  
+exchangeTransaction 129 _ 12000000000 1
+  
+// Exchange Report
+  2019-8-13 23:38:42
+  - TRUC Balance 572487760
+  - TRX Balance 262151.237054
+  - Exchange Ratio 0.0004579158811255633  
