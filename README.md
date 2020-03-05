@@ -3,9 +3,9 @@
 
 We first created the TRUC token so newcomers to TRON could practice creating wallets and sending tokens. We gave them away to everyone joining our telegram group, and we airdropped them to the TRON community at large. Thousands of participants hold TRUC tokens from this initial distribution.
 
-Paying rewards to voters has always been a source of contention within the TRON community. Some call it vote buying, others consider it the heart of cryptocurrency staking. One thing we realized was that we were missing an opportunity to accrue our earned Super Representative rewards.
-
 TRUC's value started on the Bancor exchange when we backed 500 million TRUC with 1000 TRX. There, its value grew as it amassed more than a half million TRX. Our goal has always been steady growth which we did by injecting additional TRUC tokens into the exchange, or buying back TRUC tokens from the market. Now that the price of TRUC has stabilized, we have moved trading to the TRON decentralized exchanges.
+
+Paying rewards to voters has always been a source of contention within the TRON community. Some call it vote buying, others consider it the heart of cryptocurrency staking. One thing we realized was that we were missing an opportunity to accrue our earned Super Representative rewards.
 
 The Community Node SR pays out 95% of our earned rewards back to the voters, leaving 5% which goes toward supporting the price of TRUC on the DEX's.
 
